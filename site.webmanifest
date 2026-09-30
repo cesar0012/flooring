@@ -1,0 +1,15 @@
+{
+  "name": "CFS Flooring LLC",
+  "short_name": "CFS Flooring",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#b07f49"
+}
